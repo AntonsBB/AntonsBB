@@ -1,4 +1,4 @@
-# Antons Bārdiņš
+# Antons Brains Bārdiņš
 
 Founder & CEO at **ALIREX SIA** and an accountant building practical software where finance, operations and automation meet.
 
@@ -13,7 +13,7 @@ I work from real operating problems: accounting records, reconciliations, report
 
 ## Selected work
 
-- [ABB Project Workbench](https://abbrains.xyz) - live demos, case studies and bilingual CVs with project status and limitations disclosed
+- [ABB Portfolio & Project Workbench](https://abbrains.xyz) - live demos, case studies and bilingual CVs with project status and limitations disclosed
 - **ObsidianBK** - private finance operating system in development
 - **ALIREX** - accounting, document and business-workflow prototypes
 - [ZeroClaw token-risk contribution](https://github.com/zeroclaw-labs/zeroclaw-plugins/pull/93) - open upstream pull request; not merged
