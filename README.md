@@ -17,6 +17,11 @@ I work from real operating problems: accounting records, reconciliations, report
 - **ObsidianBK** - private finance operating system in development
 - **ALIREX** - accounting, document and business-workflow prototypes
 - [ZeroClaw token-risk contribution](https://github.com/zeroclaw-labs/zeroclaw-plugins/pull/93) - open upstream pull request; not merged
+- **PMXT SDK contributions** - three tested upstream pull requests covering
+  [configuration errors](https://github.com/pmxt-dev/pmxt/pull/1806),
+  [hosted API errors](https://github.com/pmxt-dev/pmxt/pull/1821), and
+  [router market-pair typing](https://github.com/pmxt-dev/pmxt/pull/1822);
+  all are open and not merged
 
 ## Working principles
 
