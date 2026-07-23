@@ -16,6 +16,9 @@ I work from real operating problems: accounting records, reconciliations, report
 - [ABB Portfolio & Project Workbench](https://abbrains.xyz) - live demos, case studies and bilingual CVs with project status and limitations disclosed
 - **ObsidianBK** - private finance operating system in development
 - **ALIREX** - accounting, document and business-workflow prototypes
+- [PLC diagram workflow](https://github.com/AntonsBB/plc-diagram-workflow) -
+  a runnable micro-delivery from a live engineering bounty: validated JSON to
+  Graphviz/QElectroTech handoff, six tests and green CI; award pending
 - [ZeroClaw token-risk contribution](https://github.com/zeroclaw-labs/zeroclaw-plugins/pull/93) - open upstream pull request; not merged
 - **PMXT SDK contributions** - three tested upstream pull requests covering
   [caller-supplied Solana RPC forwarding](https://github.com/pmxt-dev/pmxt/pull/1806),
