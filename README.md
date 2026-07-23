@@ -18,10 +18,20 @@ I work from real operating problems: accounting records, reconciliations, report
 - **ALIREX** - accounting, document and business-workflow prototypes
 - [ZeroClaw token-risk contribution](https://github.com/zeroclaw-labs/zeroclaw-plugins/pull/93) - open upstream pull request; not merged
 - **PMXT SDK contributions** - three tested upstream pull requests covering
-  [configuration errors](https://github.com/pmxt-dev/pmxt/pull/1806),
+  [caller-supplied Solana RPC forwarding](https://github.com/pmxt-dev/pmxt/pull/1806),
   [hosted API errors](https://github.com/pmxt-dev/pmxt/pull/1821), and
   [router market-pair typing](https://github.com/pmxt-dev/pmxt/pull/1822);
   all are open and not merged
+
+## Funded 48-hour pilot
+
+I take one bounded technical milestone at a time: reproduce and fix a TypeScript
+or Rust defect, repair tests/CI or deployment, or add a read-only RPC
+integration. The pilot is **EUR 99**, with a **EUR 49.50 deposit only after** we
+agree the scope and acceptance criteria. If a tested patch is not feasible, the
+deliverable is a reproducible diagnosis and remediation plan.
+
+[Send a bounded brief](mailto:antons.bardins@outlook.com?subject=ABB%2048-hour%20technical%20pilot) with the repository, failing behavior, expected result and deadline.
 
 ## Working principles
 
@@ -30,6 +40,7 @@ I work from real operating problems: accounting records, reconciliations, report
 3. Prefer small, testable systems over vague transformation projects.
 4. Disclose mocked, replayed or synthetic data.
 
-I am available for fixed-scope ERP, finance-automation, operations-systems, Rust/WASM and read-only Solana RPC work.
+I am available for fixed-scope ERP, finance-automation, operations-systems,
+Rust/WASM and read-only Solana RPC work.
 
 **Riga, Latvia** · [Portfolio](https://abbrains.xyz) · [Email](mailto:antons.bardins@outlook.com) · [X](https://x.com/ABB_EZ)
