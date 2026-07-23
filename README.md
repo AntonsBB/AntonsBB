@@ -13,26 +13,30 @@ I work from real operating problems: accounting records, reconciliations, report
 
 ## Selected work
 
-- [ABB Portfolio & Project Workbench](https://abbrains.xyz) - live demos, case studies and bilingual CVs with project status and limitations disclosed
+- [ABB Portfolio & Project Workbench](https://abbrains.xyz) - live demos, case studies and CV downloads with project status and limitations disclosed
 - **ObsidianBK** - private finance operating system in development
 - **ALIREX** - accounting, document and business-workflow prototypes
 - [PLC diagram workflow](https://github.com/AntonsBB/plc-diagram-workflow) -
   a runnable micro-delivery from a live engineering bounty: validated JSON to
   Graphviz/QElectroTech handoff, six tests and green CI; award pending
-- [ZeroClaw token-risk contribution](https://github.com/zeroclaw-labs/zeroclaw-plugins/pull/93) - open upstream pull request; not merged
+- [ZeroClaw token-risk showcase](https://github.com/AntonsBB/token-risk-check-demo) -
+  runnable read-only Solana token checks with a public demo, tests and security
+  boundaries. The registry PR was closed to follow the sponsor's
+  showcase-first rules; it was not merged.
 - **PMXT SDK contributions** - three tested upstream pull requests covering
   [caller-supplied Solana RPC forwarding](https://github.com/pmxt-dev/pmxt/pull/1806),
   [hosted API errors](https://github.com/pmxt-dev/pmxt/pull/1821), and
   [router market-pair typing](https://github.com/pmxt-dev/pmxt/pull/1822);
   all are open and not merged
 
-## Funded 48-hour pilot
+## 100 USDC accepted-PR pilot
 
 I take one bounded technical milestone at a time: reproduce and fix a TypeScript
 or Rust defect, repair tests/CI or deployment, or add a read-only RPC
-integration. The pilot is **EUR 99**, with a **EUR 49.50 deposit only after** we
-agree the scope and acceptance criteria. If a tested patch is not feasible, the
-deliverable is a reproducible diagnosis and remediation plan.
+integration. The pilot is **100 USDC after an accepted pull request**. Scope,
+acceptance checks and the payment rail must be agreed before work begins. If a
+tested patch is not feasible, I stop rather than turn the engagement into an
+open-ended project.
 
 [Send a bounded brief](mailto:antons.bardins@outlook.com?subject=ABB%2048-hour%20technical%20pilot) with the repository, failing behavior, expected result and deadline.
 
