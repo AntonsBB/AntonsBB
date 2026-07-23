@@ -15,7 +15,10 @@ I work from real operating problems: accounting records, reconciliations, report
 
 - [ABB Portfolio & Project Workbench](https://abbrains.xyz) - live demos, case studies and CV downloads with project status and limitations disclosed
 - **ObsidianBK** - private finance operating system in development
-- **ALIREX** - accounting, document and business-workflow prototypes
+- **ALIREX** - accounting, document and business-workflow prototypes- [BountyProof x402 receipt verifier](https://github.com/AntonsBB/bountyproof-x402) -
+  a tested TypeScript API for verifying public Solana SOL/USDC payout receipts;
+  CI covers payout-proof tests, both lint gates, type checking and the production
+  build. End-to-end Hedera testnet settlement proof remains pending.
 - [PLC diagram workflow](https://github.com/AntonsBB/plc-diagram-workflow) -
   a runnable micro-delivery from a live engineering bounty: validated JSON to
   Graphviz/QElectroTech handoff, six tests and green CI; award pending
